@@ -29,3 +29,14 @@ nav > a:hover {
     border: 1px solid red;
     border-radius: 10px;
 }  
+footer > h4 {
+    font-style: italic;
+    color: grey;
+}
+main > h3 {
+    font-size: 1,5em;
+    color: grean;
+    margin: 0;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
